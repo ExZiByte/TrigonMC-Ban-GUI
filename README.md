@@ -1,1 +1,2 @@
 # TrigonMC-Ban-GUI
+ITS A PLUGIN, BITCH
