@@ -1,2 +1,3 @@
-# TrigonMC-Ban-GUI
-ITS A PLUGIN, BITCH
+## TrigonMC Ban GUI
+
+Here you can follow the development of the Ban GUI for TrigonMC Network
