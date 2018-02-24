@@ -1,4 +1,4 @@
-package com.trigonmc.development.BanGUI.guis;
+package com.trigonmc.dev.BanGUI.guis;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
