@@ -1,4 +1,4 @@
-package com.trigonmc.development.BanGUI;
+package com.trigonmc.dev.BanGUI;
 
 import java.util.logging.Logger;
 
