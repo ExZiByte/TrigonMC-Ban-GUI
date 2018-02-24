@@ -1,0 +1,15 @@
+main: com.trigonmc.development.BanGUI.Main
+version: 0.0.9
+name: TrigonMC-Ban-GUI
+author: TrigonMC Development Team
+
+commands:
+  punish:
+    description: Opens the TrigonMC Punishments GUI
+    usage: /punish
+    aliases: [p, pun]
+  playerlist:
+    description: Opens a test Player List GUI.
+    usage: will be removed in release
+    aliases: [plist, players]
+    
